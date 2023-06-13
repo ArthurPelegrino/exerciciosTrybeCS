@@ -44,7 +44,7 @@ def generateNumbers():
 
 
 # Resposta: Complexidade de tempo O(n)
-# e de espaço O(1)
+# e de espaço O(1) pois possuímos
 
 
 generateNumbers()
